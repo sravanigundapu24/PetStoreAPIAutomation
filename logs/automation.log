@@ -1,0 +1,8 @@
+20:51:33.338 [main] INFO  api.tests.UserTests - ------------creating the user info
+20:51:37.419 [main] INFO  api.tests.UserTests - ------------GEt User details---------
+20:51:39.181 [main] INFO  api.tests.UserTests - ---------------updating user----------
+20:51:40.906 [main] INFO  api.tests.UserTests - ----------------------login user-----------
+20:55:29.586 [main] INFO  api.tests.UserTests - ------------creating the user info
+20:55:32.481 [main] INFO  api.tests.UserTests - ------------GEt User details---------
+20:55:34.028 [main] INFO  api.tests.UserTests - ---------------updating user----------
+20:55:35.578 [main] INFO  api.tests.UserTests - ----------------------login user-----------
