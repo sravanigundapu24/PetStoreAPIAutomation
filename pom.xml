@@ -4,7 +4,6 @@
   <artifactId>PetStoreAPIAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  
   <build>
   <pluginManagement>
   <plugins>
@@ -67,6 +66,7 @@
 			<version>5.1.1</version>
 			<scope>test</scope>
 		</dependency>
+
 
 		<!-- JSON Schema Validator -->
 		<dependency>
