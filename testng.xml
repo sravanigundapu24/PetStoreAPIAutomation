@@ -9,7 +9,7 @@
     <test thread-count="5" name="PetTests">
 
         <classes>
-            <class name="api.tests.UserTests2"/>
+            <class name="api.tests.UserTests"/>
         </classes>
 
     </test> 

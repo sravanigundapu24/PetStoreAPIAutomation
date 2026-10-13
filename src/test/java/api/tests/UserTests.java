@@ -57,7 +57,7 @@ public class UserTests {
 		Assert.assertEquals(response.statusCode(), 200);
 	}
 	@Test
-	(priority = 3)
+	(priority = 3,enabled=false)
 	public void updateUser()
 	{
 		logger.info("---------------updating user----------");

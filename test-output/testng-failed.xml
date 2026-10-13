@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practice.GetAndAssertValues">
+      <class name="api.tests.UserTests">
         <methods>
-          <include name="postAResource"/>
+          <include name="setUpData"/>
+          <include name="updateUser"/>
         </methods>
-      </class> <!-- Practice.GetAndAssertValues -->
+      </class> <!-- api.tests.UserTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
